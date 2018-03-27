@@ -1,0 +1,2 @@
+1.zip ps ///…//swt@123456
+2.file .txt —> zip
